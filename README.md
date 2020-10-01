@@ -48,3 +48,5 @@ Owler [https://www.owler.com/]
 
 IntelligenceX [https://intelx.io/]
 
+Treands [https://trends.google.com/trends/]
+
